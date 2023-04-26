@@ -1,4 +1,4 @@
- function setConsumerProfileOnUpdate() {
+ function updateProfile() {
 
  
 
