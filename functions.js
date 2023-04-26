@@ -13,10 +13,10 @@ var onError = function(err) {
 var consumerData = {
     avatarUrl:"",
     backgndImgUri:"",
-    emailAddress: "testing@test.com",
-    firstName: "NEW",
-    lastName: "NEW",
-    phone: "testing"
+    emailAddress: "",
+    firstName: "",
+    lastName: "",
+    phone: ""
 };
 
 function updateProfile() {
