@@ -42,7 +42,7 @@
 
             var phval;
 
-            phval = "bb";
+            phval = "gg";
 
  
 
