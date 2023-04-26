@@ -3,10 +3,11 @@ SDK.init({});
 
 var onSuccess = function() {
     // Do something with the success
+    console.log("Success)
 };
 
 var onError = function(err) {
-    // Do something with the error
+    console.log("Error occurred",err)
 };
 
 
