@@ -15,9 +15,9 @@
 
             var onSuccess = function () {
 
-               // document.getElementById("lblLPError").style.color = "black";
+                document.getElementById("lblLPError").style.color = "black";
 
-               // document.getElementById("lblLPError").innerText = "Notification sent to LivePerson for chat update";
+                document.getElementById("lblLPError").innerText = "Notification sent to LivePerson for chat update";
 
                 // Do something with the success
 
@@ -27,11 +27,11 @@
 
             var onError = function (err) {
 
-              //  document.getElementById("lblLPError").style.color = "red";
+                document.getElementById("lblLPError").style.color = "red";
 
                 //document.getElementById("lblLPError").innerText = "Error occurred in sending notification to LivePerson";
 
-             //   document.getElementById("lblLPError").innerText = err;
+                document.getElementById("lblLPError").innerText = err;
              console.log(err)
 
  
